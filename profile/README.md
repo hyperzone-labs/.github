@@ -1,7 +1,7 @@
-# About The Proof Labs
-Welcome to The Proof Labs! We are a pioneering blockchain organization dedicated to revolutionizing user experiences within the digital ecosystem. Our mission is to bring the power of blockchain technology to millions of users worldwide, providing them with innovative solutions and seamless access to the benefits of blockchain.
+# About SafeWhale Labs
+Welcome to SafeWhale Labs! We are a pioneering blockchain organization dedicated to revolutionizing user experiences within the digital ecosystem. Our mission is to bring the power of blockchain technology to millions of users worldwide, providing them with innovative solutions and seamless access to the benefits of blockchain.
 
-At The Proof Labs, we firmly believe in the transformative potential of blockchain. We strive to create an environment where users can explore and leverage the immense opportunities offered by this revolutionary technology. By harnessing the decentralized, transparent, and secure nature of blockchain, we aim to enhance user experiences across various industries.
+At SafeWhale Labs, we firmly believe in the transformative potential of blockchain. We strive to create an environment where users can explore and leverage the immense opportunities offered by this revolutionary technology. By harnessing the decentralized, transparent, and secure nature of blockchain, we aim to enhance user experiences across various industries.
 
 Through our cutting-edge platform, we offer a comprehensive suite of services designed to cater to the diverse needs of our users. From secure digital asset management to decentralized applications, our solutions empower users to navigate the blockchain landscape with confidence and ease.
 
