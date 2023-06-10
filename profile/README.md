@@ -1,4 +1,4 @@
-# About SafeWhale Labs
+# About Finance Labs
 Welcome to SafeWhale Labs! We are a pioneering blockchain organization dedicated to revolutionizing user experiences within the digital ecosystem. Our mission is to bring the power of blockchain technology to millions of users worldwide, providing them with innovative solutions and seamless access to the benefits of blockchain.
 
 At SafeWhale Labs, we firmly believe in the transformative potential of blockchain. We strive to create an environment where users can explore and leverage the immense opportunities offered by this revolutionary technology. By harnessing the decentralized, transparent, and secure nature of blockchain, we aim to enhance user experiences across various industries.
